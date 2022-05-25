@@ -1,0 +1,20 @@
+.barra{
+    background:  #edc9af !important;
+    color: black !important;
+    font-family: cursive !important;
+}
+
+.formulario{
+    background:  #ddcfb4 !important;
+    color: black !important;
+    font-family: cursive !important;
+    text-align: right;
+}
+
+.footer{
+    background:  #edc9af !important;
+    color: black !important;
+    font-family: cursive !important;
+    text-align: center;
+}
+

@@ -1,0 +1,38 @@
+.contenido{
+    font-family: cursive;
+    background-color: #e4d5bb;
+    font-size: 14;
+    color: black;
+    text-align: justify;
+    justify-content: center;
+    margin: 10;
+}
+
+.frase{
+    background: #ece5ce;
+    font-family: cursive;
+    color: black;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 18;
+    padding: 0px;
+}
+
+.lista{
+    font-family: cursive;
+    font-size: 14;
+    color: black;
+    background-color: #e4d5bb;
+    justify-content: center;
+    text-align: justify;
+}
+
+.final{
+    font-family: cursive;
+    background-color: #e4d5bb;
+    font-size: 14;
+    color: black;
+    text-align: justify;
+    justify-content: center;
+    margin: 10;
+}
